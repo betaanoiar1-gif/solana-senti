@@ -1,0 +1,6 @@
+{
+  "name": "Solana Sentinel",
+  "description": "Autonomous Solana Market Intelligence, Risk Engine, DeSci Research & Paper Trading Simulator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
